@@ -19,3 +19,5 @@ Here are some examples of SQL injection Google dorks:
 "Your search term" inurl:show.php?id=
 
 These dorks can be used by hackers to quickly find and exploit vulnerable web pages. It is recommended for web developers to use strong security measures and regularly test their web applications for SQL injection vulnerabilities to prevent such attacks.
+
+Many More Are Marked Upwards
