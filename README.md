@@ -1,5 +1,5 @@
 # Sql-injection-Google-Dorks🤷‍♂️
-Google Dorks to find Sql Injection Parameters  
+Google Dorks to find Sql Injection Parameters that vill let you find or go through the vebsites easily....
 
 What is Google dork?🤣
 A Google dork query, sometimes just referred to as a dork, is a search string or custom query that uses advanced search operators to find information not 
